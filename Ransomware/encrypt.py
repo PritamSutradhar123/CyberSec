@@ -7,7 +7,7 @@ files = []
 key = Fernet.generate_key()
 # s = socket.socket()
 # port = 12345
-# ip = "192.168.1.169"
+# ip = "<server ip>"
 
 # s.connect((ip,port))
 # print("connected")
