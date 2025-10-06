@@ -1,4 +1,4 @@
-from cryptography.fernet import Fernet, InvalidToken
+from cryptography.fernet import Fernet
 import os
 
 # load key
