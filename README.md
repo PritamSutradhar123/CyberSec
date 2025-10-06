@@ -1,2 +1,2 @@
 # CyberSec
-Common attacks
+1. Ransomware
